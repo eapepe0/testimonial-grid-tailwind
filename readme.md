@@ -14,7 +14,7 @@ Pagina hecha con tailwindcss
 
 ## Deploy
 
-[Link a la pagina]()
+[Link a la pagina](https://elegant-daifuku-8963a9.netlify.app/)
 [Link a la pagina marcada](https://64ea7311067a027f5926a612--comforting-centaur-fbec2b.netlify.app/)
 
 ## Correr Tailwind
